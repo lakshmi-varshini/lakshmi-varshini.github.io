@@ -1,13 +1,14 @@
 div.container {
     align-items: center;
-    justify-content: center 
+    justify-content: center;
 }
 
 p { 
-    text-align: center
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
  }
 h1 { 
-    text-align: center
+    text-align: center;
  }
 
  hr {
