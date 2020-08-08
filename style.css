@@ -1,14 +1,11 @@
-.container {
-
-    position: relative;
-  }
-  
-h1 {
-    left: 0;
-    line-height: 200px;
-    margin-top: -100px;
+div.container {
+    height: 10em;
+    position: relative }
+div.container h1 {
+    margin: 0;
+    background: yellow;
     position: absolute;
-    text-align: center;
     top: 50%;
-    width: 100%;
-}
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
