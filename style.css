@@ -23,4 +23,21 @@ p {
      background-color: black;
  }
 
-  
+ .greeting{
+    padding-top: 15em;
+ }
+
+ body{ 
+    margin:0; 
+ } 
+ canvas{ 
+    display: block; 
+}
+
+#particles-js {
+	height:100%;
+	width: 100%;
+	z-index: -10;
+    position: fixed;
+    background-color: #e8bfc5; 
+}
